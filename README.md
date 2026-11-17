@@ -1,4 +1,4 @@
-TrenchBroom Doom Kit
+TrenchBroom Doom Kit (Download is in releases)
 
 
 
@@ -85,3 +85,5 @@ The kit uses Node.js for two jobs:
 - Reads your TrenchBroom map and calculates the Doom floors, ceilings, walls, slopes, and bridges.
 
 - Writes a .wad file and launches UZDoom with it.
+
+(Download is in releases)
